@@ -4,6 +4,9 @@ Telegram bot from scratch
 #bot url
 t.me/everlastday_bot
 
+#Variables
+TELE_TOKEN
+
 #configuration
 To use the app you need to init TELE_TOKEN variable
 To get TELE_TOKEN you need to fin BotFather in telegram and type in the chat command /newbot.
